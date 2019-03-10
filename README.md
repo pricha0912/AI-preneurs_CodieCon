@@ -1,10 +1,11 @@
 # AI-preneurs_CodieCon
 
-Project Name: Implementing a space efficient multiple object detection algorithm
+Project Name: Multiple object detection algorithm
 
 Dataset Used: 
 
-VGG16
+VGG16(Pretrained model of keras)
+
 keras.applications.vgg16.VGG16(include_top=True, weights='imagenet', input_tensor=None, input_shape=None, pooling=None, classes=1000)
 VGG16 model, with weights pre-trained on ImageNet.
 
